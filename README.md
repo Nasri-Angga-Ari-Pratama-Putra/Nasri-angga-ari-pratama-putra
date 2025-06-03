@@ -1,4 +1,4 @@
-## Hi there 👋
+#### Hi...👋I am Nasri Angga Ari Pratama Putra, a graduate of Dinamika Bangsa University majoring in Information Systems.
 
 <!--
 **Nasri-Angga-Ari-Pratama-Putra/Nasri-angga-ari-pratama-putra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
