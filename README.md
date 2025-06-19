@@ -33,7 +33,7 @@ Kedua hobi ini membentuk pola pikir saya dalam menghadapi tantangan, baik di lap
 Saya selalu terbuka untuk berdiskusi tentang inovasi AI, pengembangan sistem, atau peluang kolaborasi yang menarik. Jangan ragu untuk terhubung!
 
 * **Email:** nasriangga856@gmail.com
-* **LinkedIn:** [Link Profil LinkedIn Kamu](https://www.linkedin.com/in/nasri-angga-ari-pratama-putra-6a37101a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* **LinkedIn:** [Nasri angga ari pratama putra](https://www.linkedin.com/in/nasri-angga-ari-pratama-putra-6a37101a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
