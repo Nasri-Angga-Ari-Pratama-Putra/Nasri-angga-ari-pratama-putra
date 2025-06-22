@@ -13,7 +13,7 @@ Saya percaya bahwa perpaduan antara pemahaman mendalam tentang sistem, data, dan
 Saya fokus pada pengembangan solusi yang cerdas dan efisien, didukung oleh:
 
 * **Bahasa Pemrograman:** Python (khususnya untuk Data Science & AI).
-* **Database & Data Management:** MySQL, PostgreSQL, SQL Server.
+* **Database & Data Management:** MySQL, SQL Server.
 
 ---
 
